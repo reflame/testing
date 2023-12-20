@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "types": "src/index.d.ts",
   "type": "module",
+  "repository": {
+    "url": "https://github.com/reflame/testing"
+  },
   "devDependencies": {
     "bun-types": "latest",
     "typescript": "^5.0.0"
